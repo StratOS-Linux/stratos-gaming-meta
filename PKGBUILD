@@ -14,5 +14,8 @@ depends=(
 	'gamemode'
 	'gamescope'
 	'wine'
-
+	'mangohud'
+	'winetricks'
+	'protontricks'
+	'gamescope'
 	)
